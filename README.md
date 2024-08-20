@@ -12,3 +12,4 @@
 - *Transformers:* Cutting-edge models for natural language processing 🤖
 - *PyTorch:* Robust framework for model training and evaluation 🛠️
 - *Hugging Face:* For leveraging pre-trained models and dataset handling 🌐
+- *Fine Tune Model:*(https://huggingface.co/sami606713/medical_report_summarizer)
