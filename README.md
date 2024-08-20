@@ -1,14 +1,14 @@
-# Credit Scoring Model Building
+# *Medical_Report_Summerization*
+- I’m thrilled to share that I’m currently working on fine-tuning a state-of-the-art model for summarizing medical reports! 🎯✨
 
-## Project Overview
-The goal of this project is to predict whether a customer can repay a loan based on their features. This model helps in assessing the creditworthiness of individuals by analyzing various factors.
+# 🔍 What’s the Goal?
+- The aim is to enhance the accuracy and relevance of summaries extracted from detailed medical reports, making it easier for healthcare professionals to quickly understand patient histories and chief complaints. 🩺🔬
 
-## Notebooks
+# 💡 Why It Matters?
+- Effective summarization can improve clinical workflows, aid in faster decision-making, and support better patient outcomes. By fine-tuning this model, we’re stepping up our game in leveraging AI for impactful healthcare solutions. 💪💉
 
-- **Training Notebook**
-  - Contains the code for training the credit scoring model.
-  - [View Training Notebook](https://github.com/Sami606713/code_alpha_intenship/blob/main/Credit_Scoring_Model/creditscoring.ipynb)
+# 🔧 What We’re Using:
 
-- **Prediction Notebook**
-  - Contains the code for making predictions using the trained model.
-  - [View Prediction Notebook](https://github.com/Sami606713/code_alpha_intenship/blob/main/Credit_Scoring_Model/Prediction_notebook.ipynb)
+- *Transformers:* Cutting-edge models for natural language processing 🤖
+- *PyTorch:* Robust framework for model training and evaluation 🛠️
+- *Hugging Face:* For leveraging pre-trained models and dataset handling 🌐
